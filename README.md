@@ -1,1 +1,1 @@
-converts text of pdf to sppech in hindi,english,hinglish
+converts text of pdf to speech in hindi,english,hinglish
